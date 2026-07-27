@@ -1,4 +1,4 @@
-# Clase Programación Orientada a Objetos:Reto_5
+# Clase Programación Orientada a Objetos: Reto_5
 ## Reto de módulos y paquetes 
 
 ---
