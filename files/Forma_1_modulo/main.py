@@ -9,6 +9,7 @@ from codex1.shapes import (
 )
 
 def print_shape_info(shape):
+    print(f"{name}")
     print(f"Perimetro: {shape.compute_perimeter()}")
     print(f"Area: {shape.compute_area()}")
     print(f"Angulos internos: {shape.compute_inner_angles()}")
