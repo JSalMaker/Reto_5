@@ -12,6 +12,7 @@ def print_shape_info(name, shape):
     print(f"Area: {shape.compute_area()}")
     print(f"Angulos internos: {shape.compute_inner_angles()}")
     print(f"Es regular: {shape.get_is_regular()}")
+    print("----")
 
 def main():
     square = Square([Point(0, 0), Point(4, 0), Point(4, 4), Point(0, 4)])
